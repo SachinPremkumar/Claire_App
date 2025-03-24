@@ -37,4 +37,4 @@ mosip.identity.fieldid.handle-postfix.mapping={'email':'@email', 'phone':'@phone
 ## Sequence Diagram
 The following sequence diagram illustrates the registration process, including the use of the Handles Feature:
 
-![HandlesUserFlow.png](../HandlesUserFlow.png)
+![HandlesUserFlow.png]([../HandlesUserFlow.png](https://www.plantuml.com/plantuml/png/TP1FQzj04CNl-XH3JZQuNy274Xork612a2Yzz3BU7Kj3ze_OdOtfj-zOwgPo8AU1-Rrvxp6FMJ19yQv18p71pqofcNJ5XYSC0W-dE73eJI8A3u0PJlqzFqPFAtpyW9-__OAE1iwIK3Wkekw3g4N1CsQQONjecbiD-F9Lm_P0GIWz9R8KXD7bJL4OqDCE9ipv6fFTDgU-oj_GiKMXzKNbDzizk8ZsVsk5xt57lJUEpUipNTUbLNES3Rf-EL_35nneRTBLpYtvE2ISHZOj2cv63DPHLkgHdROVOw0TXDa5tOzsU-THfbjI6qtnQfStztHAyOqj7JXwahGagAHxhsaIeT0BcbUI6hq3Uzz95zL_1-UrLxLg3tl8vUnP_bbDyzWsxQ4cwIB4goCxK7zJvhoyh5lzt7AU7FvvYk72oTUdDY4AGU9X58YNsUouD8NlX58IxU5tgAlDftzJKSbauH8JO96HWh2PiHAz1ek2-b0Tb9j72hPuznS0))
